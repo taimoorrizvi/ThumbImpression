@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Offsite Bio Verification</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_bio_metric_enrollment">BioMetricEnrollmentActivity</string>
+
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="action_save">Save</string>
+    <string name="action_open_device">Open Device</string>
+    <string name="action_get_image">Get Image</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_username">This username is invalid</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="copyright_text">© 2016 Bank AL Habib. All rights reserved.</string>
+    <string name="prompt_purpose">Purpose*</string>
+    <string name="prompt_Customer_Category">Customer Category*</string>
+    <string name="prompt_ident_type">Identification Type*</string>
+    <string name="prompt_ident_no">Identification No*</string>
+    <string name="prompt_contact_type">Contact Type*</string>
+    <string name="prompt_contact_no">Contact No*</string>
+    <string name="prompt_finger_index">Finger Index*</string>
+    <string name="notification_label">Notification: </string>
+    <string name="action_reset">Reset</string>
+
+
+    <string name="prompt_Location">Location*</string>
+    <string name="prompt_product_category">Product Category*</string>
+
+    <string name="prompt_thumb_impression">Thumb impression</string>
+    <string name="server_side_error" > Error occurs. Please contact to administrator</string>
+    <string name="bank_internal_purpose_message">Your biometric verification has been succefully saved for bank internal pupose</string>
+
+    <!--  <string name="webservice_url">http://10.130.15.145/OrbitWebApi/api</string>
+    <string name="authenticatingServerBaseUrl">http://10.130.15.145/OrbitWebApi/api/security</string>
+    <string name="webservice_Biometric_url">http://10.130.15.145/OrbitWebApi/Biometric</string>
+    <string name="url_save_biometric">http://10.130.15.145/OrbitWebApi/Biometric</string>
+    <string name="url_verify_biometric">http://10.130.15.145/OrbitWebApi/Biometric/Verification</string>-->
+
+    <!--<string name="webservice_url">http://10.130.15.45/OrbitWebApi/api</string>-->
+    <!--<string name="authenticatingServerBaseUrl">http://10.130.15.45/OrbitWebApi/api/security</string>-->
+    <!--<string name="webservice_Biometric_url">http://10.130.15.45/OrbitWebApi/Biometric</string>-->
+    <!--<string name="url_save_biometric">http://10.130.15.45/OrbitWebApi/Biometric</string>-->
+    <!--<string name="url_verify_biometric">http://10.130.15.45/OrbitWebApi/Biometric/Verification</string>-->
+
+    <!--<string name="webservice_url">http://10.130.15.43/OrbitWebApi/api</string>
+    <string name="authenticatingServerBaseUrl">http://10.130.15.43/OrbitWebApi/api/security</string>
+    <string name="webservice_Biometric_url">http://10.130.15.43/OrbitWebApi/Biometric</string>
+    <string name="url_save_biometric">http://10.130.15.43/OrbitWebApi/Biometric</string>
+    <string name="url_verify_biometric">http://10.130.15.43/OrbitWebApi/Biometric/Verification</string>
+-->
+
+     <!--<string name="authenticatingServerBaseUrl">http://10.130.15.145/OrbitWebApi/api/security</string>-->
+    <!--<string name="webservice_Biometric_url">http://10.130.15.145/OrbitWebApi/Biometric</string>-->
+    <!--<string name="url_save_biometricw">http://10.130.15.145/OrbitWebApi/Biometric</string>-->
+    <!--<string name="url_verify_biometric">http://10.130.15.145/OrbitWebApi/Biometric/Verification</string>-->
+<string name="authentication_error">Please Enter Username/Password</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="hello">FpSDKSampleP41MActivity!</string>
+
+    <string name="login_failed_title">Login Failed</string>
+
+    <string name="login_failed_message">Please enter valid username/passowrd</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="nadra_service_verified_status">y</string>
+    <string name="nadra_verified_status">Verified</string>
+    <string name="nadra_not_verified_status">Not Verified</string>
+
+    <string name="prompt_planets">Match Level</string>
+    <string name="action_logout">Logout</string>
+    <string name="logout_failed_title">Logout failed</string>
+    <string name="logout_failed_message">Logout Failed</string>
+    <string-array name="FpCount">
+        <item>1700</item>
+        <item>2000</item>
+        <item>3000</item>
+    </string-array>
+</resources>
