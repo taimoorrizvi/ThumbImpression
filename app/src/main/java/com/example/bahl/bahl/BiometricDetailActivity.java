@@ -48,7 +48,7 @@ public class BiometricDetailActivity extends AppCompatActivity {
     public void onBackPressed() {
 
    }*/
-///Arshad GitHub Changes///
+///Arshad GitHub Changes1///
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
